@@ -1,0 +1,17 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+
+.title{
+    font-family: serif;
+}
+
+h2{
+    font-family: serif;
+}
+
+.gamen{
+    display: flex;
+    justify-content: space-around;
+}
